@@ -5,7 +5,7 @@ export default defineConfig({
   title: "帆友AI，和朋友一起用的 AI 平台",
   description: "帆友AI，和朋友一起用的 AI 平台",
   head: [
-    ['link', {rel: 'icon', href: '/public/img/logo_fan.ico'}]
+    ['link', {rel: 'icon', href: '/img/logo_fan.ico'}]
   ],
   themeConfig: {
     search: {
@@ -32,7 +32,7 @@ export default defineConfig({
       }
     },
     i18nRouting: false,
-    logo: '/public/img/logo_fan.png',
+    logo: '/img/logo_fan.png',
     siteTitle: '帆友 AI',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
