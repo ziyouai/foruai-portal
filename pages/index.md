@@ -15,10 +15,10 @@ hero:
       link: /docs/what-is-foruai
     - theme: alt
       text: 开始体验
-      link: https://ai.foruai.com
+      link: https://foruai.com
     - theme: alt
       text: API
-      link: https://api.foruai.com
+      link: https://api.deeepai.com
 
 features:
   - icon: 

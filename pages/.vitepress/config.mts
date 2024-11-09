@@ -42,7 +42,7 @@ export default defineConfig({
         {text: 'API', link: 'https://api.foruai.com'}
       ] },
       { text: '文档', link: '/docs/what-is-foruai'},
-      { text: '日志', link: ''},
+      { text: '日志', link: '/logs'},
       { text: '关于', link: '/docs/about'},
       { text: '联系我们', link: '/docs/contact'}
     ],
