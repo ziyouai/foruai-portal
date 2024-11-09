@@ -83,7 +83,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      // { icon: 'github', link: 'https://github.com/writefriend/foruportal' }
+       { icon: 'github', link: 'https://github.com/ziyouai/foruai-portal' }
     ],
 
     footer: {
