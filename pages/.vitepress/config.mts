@@ -42,11 +42,10 @@ export default defineConfig({
         {text: 'API', link: 'https://api.foruai.com'}
       ] },
       { text: '文档', link: '/docs/what-is-foruai'},
-      { text: '日志', link: '/logs'},
+      { text: '日志', link: ''},
       { text: '关于', link: '/docs/about'},
       { text: '联系我们', link: '/docs/contact'}
     ],
-
     sidebar: {
       '/docs/': [
         {
@@ -91,5 +90,8 @@ export default defineConfig({
       copyright: 'Copyright ©2023-2024 字友'
     },
   },
-  lastUpdated: true
+  lastUpdated: true,
+  sitemap: {
+    hostname: 'https://foru.chat'
+  }
 })
