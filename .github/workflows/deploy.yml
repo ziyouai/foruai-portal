@@ -43,17 +43,17 @@ jobs:
 
       - name: Install pnpm
         run: npm install -g pnpm
-        
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
         run: pnpm install # 或 pnpm install / yarn install / bun install
       - name: Build with ForU_Portal
-        run: pnpm run pages:build # 或 pnpm docs:build / yarn docs:build / bun run docs:build
+        run: pnpm run pages:build # 或 pnpm pages:build / yarn pages:build / bun run pages:build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist
+          path: pages/.vitepress/dist
 
   # 部署工作
   deploy:
