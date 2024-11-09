@@ -4,7 +4,7 @@
 
 # 2.4 (2024-11-03)
 - API 开放网页端(api.deeepai.com)
-- API 优化了 UI 页面
+- API [优化了 UI 页面](../img/api.deeepai.png)
 
 # 2.3.2 (2024-11-02)
 - 上线了 API 服务监控功能(system.deeepai.com)
