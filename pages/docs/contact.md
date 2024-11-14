@@ -6,4 +6,4 @@
 
 您可以通过以下邮箱直接与我们联系：
 
-[changetheworldname@gmail.com](mailto:changetheworldname@gmail.com)
+[contact@iziyou.com](mailto:contact@iziyou.com)
